@@ -1,6 +1,6 @@
 {
-    "name": "mpos_template",
-    "short_name": "mpos_template",
+    "name": "fuccini_template",
+    "short_name": "fuccini_template",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
